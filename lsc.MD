@@ -4,19 +4,19 @@ Last update - 2/12
 
 ## Top
 
-Jayce
-Riven
-Yasuo
-Fiora
-Darius
-Jax
-Vladimir
-Olaf
-Teemo
-Shen
-Dr. Mundo
-Jarvan IV
-Kayle
+Jayce,
+Riven,
+Yasuo,
+Fiora,
+Darius,
+Jax,
+Vladimir,
+Olaf,
+Teemo,
+Shen,
+Dr. Mundo,
+Jarvan IV,
+Kayle,
 
 ## Jungle
 
@@ -32,7 +32,7 @@ Kindred
 Xin Zhao
 Kha'Zix
 
-##Mid
+## Mid
 
 Katarina
 Xerath
@@ -59,7 +59,7 @@ Zoe
 Diana
 Talon
 
-##ADC
+## ADC
 
 Sivir
 Lucian
@@ -78,7 +78,7 @@ Caitlyn
 Xayah
 Varus
 
-##Support
+## Support
 
 Lulu
 Thresh
