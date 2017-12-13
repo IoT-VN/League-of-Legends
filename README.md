@@ -16,7 +16,11 @@
 
 - [x] [7.24.211.8074 - LOLNA](https://raw.githubusercontent.com/IoT-VN/League-of-Legends/master/7.24/7.24.211.8074/League%20of%20Legends.exe)
 
-- [x] [7.24.211.7318 - LOLNA](https://raw.githubusercontent.com/IoT-VN/League-of-Legends/master/7.24.211.7318/League%20of%20Legends.exe)
+- [x] [7.24.211.7318 - LOLNA](https://raw.githubusercontent.com/IoT-VN/League-of-Legends/master/master/7.24/7.24.211.7318/League%20of%20Legends.exe)
+
+- [x] [7.24.212.2775 - LOLNA](https://raw.githubusercontent.com/IoT-VN/League-of-Legends/master/master/7.24/7.24.212.2775/League%20of%20Legends.exe)
+
+
 
 
 
