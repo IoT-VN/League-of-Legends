@@ -1,22 +1,20 @@
-LeagueCoreShine supports 69 champions. Champions shown more than once can be played in either role.
-
-Last update - 2/12
-
 ## Top
 
-Jayce,
-Riven,
-Yasuo,
-Fiora,
-Darius,
-Jax,
-Vladimir,
-Olaf,
-Teemo,
-Shen,
-Dr. Mundo,
-Jarvan IV,
-Kayle,
+Jayce
+Riven
+Yasuo
+Fiora
+Darius
+Jax
+Vladimir
+Olaf
+Teemo
+Shen
+Dr. Mundo
+Jarvan IV
+Kayle
+Gangplank
+
 
 ## Jungle
 
@@ -31,6 +29,9 @@ Ezreal
 Kindred
 Xin Zhao
 Kha'Zix
+Udyr
+Shyvana
+
 
 ## Mid
 
@@ -58,6 +59,8 @@ Lucian
 Zoe
 Diana
 Talon
+Lux
+
 
 ## ADC
 
@@ -78,6 +81,7 @@ Caitlyn
 Xayah
 Varus
 
+
 ## Support
 
 Lulu
@@ -93,3 +97,5 @@ Brand
 Zilean
 Alistar
 Morgana
+Nami
+Leona
